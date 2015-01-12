@@ -1,5 +1,2 @@
-WHALES AND APES AND COWS AND BABOONS irhj iwrh woe 
-hello wello trello yello
-
-
-ivinisha vinisha vinisha vinisha
+def cuddles
+end
